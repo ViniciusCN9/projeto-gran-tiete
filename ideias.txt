@@ -1,0 +1,30 @@
+Portal Gran-Tiete
+
+Landing Page
+Cursos e Pós Graduação
+NewsLetter
+Contato
+Sobre
+EmpregaGran
+Podcast
+Biblioteca
+Corpo Docente
+Projetos - Feira do Empreendedor, ...
+Acesso
+
+Aluno
+Depentente do GENNERA
+Subscrição no Emprega GRAN
+
+Professor ?
+
+Funcionário
+CRUD Cursos em geral
+Publicação de notícias e artigos
+Atualização do podcast - ?
+Biblioteca - ?
+CRUD Corpo Docente
+Publicação no EmpregaGRAN
+
+Admin
+Tudo
